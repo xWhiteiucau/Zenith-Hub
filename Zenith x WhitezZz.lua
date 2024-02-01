@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet(''...''))()
+local library = loadstring(game:HttpGet(''https://raw.githubusercontent.com/xWhiteiucau/Zenith-Hub/main/Zenith%20x%20WhitezZz.lua''))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/xWhiteiucau/Zenith-Hub/main/local%20SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/xWhiteiucau/Zenith-Hub/main/local%20InterfaceManager.lua"))()
 --------------------------------------------------------------------------------------------------------------------------------------------
